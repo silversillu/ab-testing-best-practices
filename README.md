@@ -23,6 +23,15 @@ Divide your experiment (and code) into logical parts based on the type of change
 There are various approaches one can take when building an A/B test but here's a common one.
 
 1. In your favorite text editor, build a "skeleton" of the test
+2. Start building the first change (in plain Javascript)
+3. Test your code in your browser developer tools (copy-paste in the console)
+4. Follow the process until all changes are implemented and everything looks OK
+
+### Step 3 - Upload code in the testing tool
+
+After writing the code in a text editor and testing it in the browser, it's time to move it into a testing tool. Most tools have a dedicated box for custom Javascript.
+
+After uploading your code, generate a preview link and test it. Now it's time for configuring targeting and audience rules, goals and quality assurance.
 
 ## Naming conventions
 
